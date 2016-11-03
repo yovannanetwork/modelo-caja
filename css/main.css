@@ -1,3 +1,13 @@
-/** 
-Escribir el CSS necesario aqui
-*/
+div {
+    background: #ffdead;
+    padding: 10px 20px 40px 90px;
+    border-width: 15px 10px;
+    border-style: solid;
+    border-color: darkviolet;
+}
+p {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border: dashed 2px;
+}
