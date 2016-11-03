@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /** 
 Escribir el CSS necesario aqui
 */
@@ -5,4 +6,18 @@ p{
     margin: 100px
     border: 16px solid purple;
     padding: 8px;
+=======
+div {
+    background: #ffdead;
+    padding: 10px 20px 40px 90px;
+    border-width: 15px 10px;
+    border-style: solid;
+    border-color: darkviolet;
+}
+p {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border: dashed 2px;
+>>>>>>> f99ffb0c2e68ee7bfcb01825cf2ac3030526fed4
 }
